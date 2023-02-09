@@ -1,4 +1,4 @@
 # Tribute Page
 
-A Pen created on CodePen.io by me. Original URL: [https://codepen.io/nickprincy/pen/bGjJXQm](https://codepen.io/nickprincy/pen/bGjJXQm).
+A FreeCOdeCAmp project created by me on CodePen.io using only HTML And CSS. Original URL: [https://codepen.io/nickprincy/pen/bGjJXQm](https://codepen.io/nickprincy/pen/bGjJXQm).
 
