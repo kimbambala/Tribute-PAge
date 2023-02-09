@@ -1,0 +1,49 @@
+#main{
+  background-color: grey;
+  font: caption;
+  border-radius: 7px;
+}
+
+#title{
+  height: 130px;
+  margin-top: 20px;
+  padding-top: 10px;
+  text-align: center;
+}
+
+.photo-credit{
+  margin-left: 895px;
+}
+
+
+#img-div{
+  background-color: white;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+    
+}
+
+#image{
+  background-color: white;
+  text-align: center;
+   
+}
+
+#img-caption{
+  text-align: center;
+  margin-top: 10px;
+ 
+
+}
+#tribute-info{
+  margin-left: 380px;
+  margin-right: 380px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+#tribute-link{
+  text-align: center;
+  padding-bottom: 20px
+}
